@@ -8,7 +8,7 @@
   ],
   "redirects": [
     {
-      "source": "/my-redirect",
+      "source": "/",
       "destination": "https://maps.app.goo.gl/W5L9FX6z11KrE7fH9",
       "permanent": true
     }
